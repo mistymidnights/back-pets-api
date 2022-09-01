@@ -1,1 +1,2 @@
-# back-pets-api
+# Animal-Project_Back-End
+Neoland, animal social media project
